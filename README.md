@@ -1,0 +1,1 @@
+This dashboard project analyzes patient data using Power BI to explore treatment costs, department-wise performance, follow-up rates, and satisfaction levels including key KPIs, interactive slicers, and departmental insight report.
