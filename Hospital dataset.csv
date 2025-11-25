@@ -1,0 +1,61 @@
+﻿PatientID,Name,Age,Gender,Department,Doctor,VisitDate,Diagnosis,TreatmentCost,Insurance,FollowUpRequired,PatientSatisfaction
+1001,Emma Brown,34,Female,Cardiology,Dr. Parker,1/15/2025,Hypertension,450,Yes,Yes,4
+1002,Liam Wilson,56,Male,Oncology,Dr. Carter,2/10/2025,Lung Cancer,1200,Yes,Yes,3
+1003,Ava Johnson,29,Female,Orthopedics,Dr. Patel,1/20/2025,Fracture,700,No,Yes,5
+1004,Noah Smith,41,Male,General Medicine,Dr. Adams,1/22/2025,Diabetes,300,Yes,No,4
+1005,Olivia Davis,23,Female,Pediatrics,Dr. Clark,1/25/2025,Flu,150,No,No,5
+1006,William Moore,47,Male,Cardiology,Dr. Parker,1/30/2025,Arrhythmia,600,Yes,Yes,4
+1007,Sophia Miller,38,Female,Orthopedics,Dr. Patel,2/5/2025,Back Pain,350,Yes,No,3
+1008,James Anderson,62,Male,Oncology,Dr. Carter,2/12/2025,Colon Cancer,1400,Yes,Yes,2
+1009,Isabella Thomas,17,Female,Pediatrics,Dr. Clark,1/18/2025,Asthma,200,No,Yes,4
+1010,Benjamin Lee,52,Male,General Medicine,Dr. Adams,1/28/2025,Cholesterol,280,Yes,No,5
+1011,Charlotte White,45,Female,Cardiology,Dr. Parker,2/16/2025,Heart Disease,950,Yes,Yes,3
+1012,Elijah Harris,36,Male,Orthopedics,Dr. Patel,1/12/2025,Dislocation,500,Yes,Yes,4
+1013,Amelia Martin,31,Female,General Medicine,Dr. Adams,2/2/2025,Migraine,220,No,No,5
+1014,Henry Thompson,64,Male,Oncology,Dr. Carter,1/26/2025,Prostate Cancer,1500,Yes,Yes,2
+1015,Mia Garcia,27,Female,Orthopedics,Dr. Patel,2/14/2025,Sprain,180,No,No,5
+1016,Lucas Martinez,40,Male,General Medicine,Dr. Adams,1/17/2025,High BP,260,Yes,Yes,4
+1017,Harper Robinson,15,Female,Pediatrics,Dr. Clark,2/8/2025,Bronchitis,190,No,No,5
+1018,Alexander Clark,59,Male,Cardiology,Dr. Parker,2/11/2025,Heart Block,1100,Yes,Yes,3
+1019,Evelyn Rodriguez,22,Female,General Medicine,Dr. Adams,1/19/2025,Viral Fever,150,No,No,5
+1020,Daniel Lewis,50,Male,Orthopedics,Dr. Patel,1/27/2025,Joint Pain,300,Yes,No,4
+1021,Grace Walker,32,Female,Pediatrics,Dr. Clark,2/15/2025,Tonsillitis,160,No,Yes,5
+1022,Matthew Hall,58,Male,Oncology,Dr. Carter,1/21/2025,Skin Cancer,900,Yes,Yes,3
+1023,Chloe Allen,44,Female,Cardiology,Dr. Parker,2/9/2025,Chest Pain,500,Yes,No,4
+1024,David Young,39,Male,General Medicine,Dr. Adams,1/16/2025,Gastric Issue,210,No,No,4
+1025,Zoey Hernandez,25,Female,Pediatrics,Dr. Clark,2/13/2025,Allergy,170,No,No,5
+1026,Jackson King,61,Male,Cardiology,Dr. Parker,1/24/2025,Stroke,1300,Yes,Yes,2
+1027,Aria Wright,28,Female,Orthopedics,Dr. Patel,2/3/2025,Knee Pain,250,No,No,4
+1028,Michael Lopez,35,Male,General Medicine,Dr. Adams,1/29/2025,Thyroid,230,Yes,No,4
+1029,Scarlett Hill,19,Female,Pediatrics,Dr. Clark,2/1/2025,Vomiting,120,No,No,5
+1030,Ethan Scott,46,Male,Oncology,Dr. Carter,2/7/2025,Lymphoma,1100,Yes,Yes,3
+1031,Victoria Green,54,Female,Cardiology,Dr. Parker,1/13/2025,Valve Disease,1000,Yes,Yes,3
+1032,Andrew Adams,30,Male,Orthopedics,Dr. Patel,1/31/2025,Ankle Pain,280,No,No,4
+1033,Lily Baker,21,Female,General Medicine,Dr. Adams,2/4/2025,Cold,120,No,No,5
+1034,Samuel Rivera,49,Male,Oncology,Dr. Carter,1/23/2025,Leukemia,1600,Yes,Yes,2
+1035,Nora Campbell,26,Female,Cardiology,Dr. Parker,2/6/2025,Palpitations,400,Yes,No,4
+1036,Owen Mitchell,42,Male,Orthopedics,Dr. Patel,1/14/2025,Shoulder Pain,320,Yes,No,4
+1037,Hannah Carter,33,Female,General Medicine,Dr. Adams,1/11/2025,Depression,350,No,Yes,3
+1038,Logan Perez,60,Male,Oncology,Dr. Carter,1/28/2025,Brain Tumor,1700,Yes,Yes,1
+1039,Zoe Roberts,18,Female,Pediatrics,Dr. Clark,2/10/2025,Infection,180,No,No,5
+1040,Christopher Turner,55,Male,Cardiology,Dr. Parker,1/18/2025,Angina,900,Yes,Yes,3
+1041,Addison Phillips,37,Female,Orthopedics,Dr. Patel,2/12/2025,Neck Pain,260,No,No,4
+1042,Lucas Campbell,43,Male,General Medicine,Dr. Adams,2/3/2025,Allergy,160,No,No,4
+1043,Riley Parker,20,Female,Pediatrics,Dr. Clark,1/27/2025,Skin Rash,140,No,No,5
+1044,Isaac Evans,48,Male,Oncology,Dr. Carter,2/14/2025,Bone Cancer,1500,Yes,Yes,2
+1045,Penelope Collins,24,Female,Cardiology,Dr. Parker,2/5/2025,Heart Murmur,450,Yes,Yes,4
+1046,Wyatt Stewart,53,Male,Orthopedics,Dr. Patel,1/15/2025,Arthritis,380,Yes,Yes,3
+1047,Layla Sanchez,16,Female,Pediatrics,Dr. Clark,2/9/2025,Fever,130,No,No,5
+1048,Dylan Brooks,39,Male,General Medicine,Dr. Adams,2/11/2025,Headache,200,No,No,4
+1049,Ellie Morris,28,Female,Cardiology,Dr. Parker,1/19/2025,Hypertension,460,Yes,Yes,4
+1050,Julian Rogers,45,Male,Orthopedics,Dr. Patel,2/6/2025,Fracture,650,Yes,Yes,4
+1051,Naomi Foster,22,Female,Pediatrics,Dr. Clark,1/24/2025,Cough,150,No,No,5
+1052,Brayden Butler,57,Male,Oncology,Dr. Carter,2/8/2025,Throat Cancer,1300,Yes,Yes,2
+1053,Aurora Simmons,33,Female,Cardiology,Dr. Parker,1/16/2025,Heart Pain,500,Yes,Yes,4
+1054,Adrian Murphy,41,Male,General Medicine,Dr. Adams,2/13/2025,Sinus Infection,180,No,No,4
+1055,Natalie Hughes,29,Female,Orthopedics,Dr. Patel,1/25/2025,Hip Pain,300,No,No,4
+1056,Connor Diaz,63,Male,Oncology,Dr. Carter,2/1/2025,Stomach Cancer,1700,Yes,Yes,2
+1057,Brooklyn Ward,17,Female,Pediatrics,Dr. Clark,1/20/2025,Cold,120,No,No,5
+1058,Jason Price,51,Male,Cardiology,Dr. Parker,2/4/2025,Heart Issue,800,Yes,Yes,3
+1059,Elena Torres,30,Female,General Medicine,Dr. Adams,2/7/2025,Stomach Ache,190,No,No,5
+1060,Carson Barnes,46,Male,Orthopedics,Dr. Patel,1/29/2025,Back Injury,550,Yes,Yes,4
